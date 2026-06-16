@@ -1,4 +1,4 @@
-# Junrey Lidres Personal Website
+# Junrey Lidres
 
 Static rebuild of `jlidres.com`, ready for Vercel.
 
