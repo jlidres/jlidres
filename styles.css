@@ -350,6 +350,34 @@ svg {
   font-weight: 700;
 }
 
+.linkedin-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  padding: 1.35rem;
+  color: var(--white);
+  background: var(--green);
+  border-radius: var(--radius);
+}
+
+.linkedin-summary h3 {
+  margin: 0;
+  font-size: clamp(1.25rem, 2.2vw, 2rem);
+  line-height: 1.12;
+}
+
+.linkedin-summary p:last-child {
+  margin: 0.55rem 0 0;
+  color: rgba(255, 255, 255, 0.78);
+  font-weight: 700;
+}
+
+.linkedin-summary .button {
+  flex: 0 0 auto;
+}
+
 .timeline {
   display: grid;
   gap: 1rem;
@@ -630,6 +658,11 @@ svg {
   }
 
   .contact-section {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .linkedin-summary {
     align-items: flex-start;
     flex-direction: column;
   }
