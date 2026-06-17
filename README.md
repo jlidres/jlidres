@@ -1,4 +1,4 @@
-# Personal Portfolio & Professional Showroom
+# Personal Portfolio
 
 A clean, minimalist, and production-ready professional portfolio website showcasing the intersection of education technology, data analytics, and public service. This site serves as a central hub for data-driven educational projects, technical workflows, and professional credentials.
 
